@@ -1,0 +1,22 @@
+header {padding-top: 61px;
+    padding-bottom: 96px;
+    max-width: 1110px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    align-content: center;
+}
+.logo-container {
+    display: flex;
+    align-content: center;
+}
+.nav {
+    list-style-type: none;
+    display: flex;
+    align-items: center; 
+}
+.nav>li {
+    margin-left: 29px;
+}
