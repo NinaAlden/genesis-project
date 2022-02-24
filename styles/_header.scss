@@ -1,4 +1,5 @@
-header {padding-top: 61px;
+header {
+    padding-top: 61px;
     padding-bottom: 96px;
     max-width: 1110px;
     width: 100%;
@@ -17,6 +18,8 @@ header {padding-top: 61px;
     display: flex;
     align-items: center; 
 }
-.nav>li {
-    margin-left: 29px;
+.logo-position {
+    position: relative;
+    right: 65px;
 }
+
